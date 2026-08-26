@@ -246,9 +246,9 @@ Because the array size, data width, and PE count are all parameterized rather th
 
 # 👩🏽‍💻 Author
 
-**A'Yana Leonard**
+**Piyush Antil**
 
-U.S. Army Veteran • Physics Student • Mathematics Student • FPGA Design • Digital Hardware • AI Acceleration
+FPGA Design • Digital Hardware • AI Acceleration
 
 ---
 
